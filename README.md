@@ -9,4 +9,4 @@ pip3 install -r requirements.txt or pip install -r requirements.txt
     -   Standard user *username: test23*, *password: 123456*  
 # TODO
 Add page for adding post (Currently it is done through admin panel)  
-Add option of selecting color for post titl   
+Add option of selecting color for post title   
